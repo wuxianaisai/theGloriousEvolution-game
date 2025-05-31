@@ -1,0 +1,13 @@
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\bin\Debug\theGloriousEvolution.exe.config
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\bin\Debug\theGloriousEvolution.exe
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\bin\Debug\theGloriousEvolution.pdb
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.csproj.AssemblyReference.cache
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.Form1.resources
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.Game.resources
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.Properties.Resources.resources
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.csproj.GenerateResource.cache
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.csproj.CoreCompileInputs.cache
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.exe
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.pdb
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.GameOver.resources
+C:\Users\Gamer-PC\Desktop\projects c#\theGloriousEvolution\theGloriousEvolution\obj\Debug\theGloriousEvolution.Victory.resources
